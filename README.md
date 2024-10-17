@@ -1,6 +1,6 @@
 # Predicado com Listas: findall e setof
 
-### Tanto a _findall_ quanto a _setof_ irão, a partir de uma base de dados, coletar as informações que satisfaçam uma condição e irão "retorna-las" em uma lista.
+### Tanto a _findall_ quanto a _setof_ irão, a partir de uma base de dados, coletar as informações que satisfaçam uma condição e "retornar" os resultados em uma lista.
 
 ## Sintaxe no prolog: 
 ``` 
